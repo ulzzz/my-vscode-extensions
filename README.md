@@ -1,1 +1,19 @@
-# my-vscode-extensions
+code --install-extension abusaidm.html-snippets
+code --install-extension amiralizadeh9480.laravel-extra-intellisense
+code --install-extension bmewburn.vscode-intelephense-client
+code --install-extension bradlc.vscode-tailwindcss
+code --install-extension devsense.composer-php-vscode
+code --install-extension devsense.intelli-php-vscode
+code --install-extension devsense.phptools-vscode
+code --install-extension devsense.profiler-php-vscode
+code --install-extension dsznajder.es7-react-js-snippets
+code --install-extension ecmel.vscode-html-css
+code --install-extension esbenp.prettier-vscode
+code --install-extension formulahendry.auto-close-tag
+code --install-extension formulahendry.auto-rename-tag
+code --install-extension hollowtree.vue-snippets
+code --install-extension ms-azuretools.vscode-docker
+code --install-extension ms-vscode-remote.remote-containers
+code --install-extension onecentlin.laravel5-snippets
+code --install-extension vscode-icons-team.vscode-icons
+code --install-extension vue.volar
